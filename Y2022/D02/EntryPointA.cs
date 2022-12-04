@@ -62,23 +62,3 @@ public class Round
         }
     }
 }
-
-public enum Choice
-{
-    Rock = 1,
-    Paper = 2,
-    Scissors = 3,
-    A = Rock,
-    B = Paper,
-    C = Scissors,
-    X = Rock,
-    Y = Paper,
-    Z = Scissors,
-}
-
-public enum Result
-{
-    Win = 6,
-    Draw = 3,
-    Loss = 0
-}

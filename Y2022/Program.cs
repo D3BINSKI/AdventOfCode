@@ -5,4 +5,4 @@ using Y2022.D02;
 Console.WriteLine("Hello, World!");
 
 EntryPointA.Run();
-// EntryPointB.Run();
+EntryPointB.Run();
