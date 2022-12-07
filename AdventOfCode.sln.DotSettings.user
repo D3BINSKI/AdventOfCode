@@ -1,8 +1,11 @@
 ﻿<wpf:ResourceDictionary xml:space="preserve" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" xmlns:s="clr-namespace:System;assembly=mscorlib" xmlns:ss="urn:shemas-jetbrains-com:settings-storage-xaml" xmlns:wpf="http://schemas.microsoft.com/winfx/2006/xaml/presentation">
-	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=3c1b6429_002D372a_002D4b58_002Dbdb2_002De3d33d8923a0/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" IsActive="True" Name="EntryPointATests" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+	<s:String x:Key="/Default/Environment/Highlighting/HighlightingSourceSnapshotLocation/@EntryValue">C:\Users\debin\AppData\Local\JetBrains\Rider2022.2\resharper-host\temp\Rider\vAny\CoverageData\_AdventOfCode.-761216951\Snapshot\snapshot.utdcvr</s:String>
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=3c1b6429_002D372a_002D4b58_002Dbdb2_002De3d33d8923a0/@EntryIndexedValue">&lt;SessionState ContinuousTestingIsOn="True" ContinuousTestingMode="2" IsActive="True" Name="EntryPointATests" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
   &lt;TestAncestor&gt;&#xD;
     &lt;TestId&gt;xUnit::11B1EE07-0637-42F9-AB4E-A86016F38294::net6.0::Y2022.Tests.D01.EntryPointATests&lt;/TestId&gt;&#xD;
     &lt;TestId&gt;xUnit::11B1EE07-0637-42F9-AB4E-A86016F38294::net6.0::Y2022.Tests.D02.EntryPointBTests&lt;/TestId&gt;&#xD;
     &lt;TestId&gt;xUnit::11B1EE07-0637-42F9-AB4E-A86016F38294::net6.0::Y2022.Tests.D02.EntryPointATests&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;xUnit::11B1EE07-0637-42F9-AB4E-A86016F38294::net6.0::Y2022.Tests.D03.EntryPointATest.Calculate_ShouldReturnResultFromChallengerDescription&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;xUnit::11B1EE07-0637-42F9-AB4E-A86016F38294::net6.0::Y2022.Tests.D03.EntryPointBTest.Calculate_ShouldReturnResultFromChallengerDescription&lt;/TestId&gt;&#xD;
   &lt;/TestAncestor&gt;&#xD;
 &lt;/SessionState&gt;</s:String></wpf:ResourceDictionary>
